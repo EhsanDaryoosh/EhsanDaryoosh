@@ -1,5 +1,16 @@
 ## Hi there 👋
 
+
+### Cytometry in R- 
+
+- Location: Milan, Lombardy, Italy
+
+- My favorite Fluorophore/Metal-Isotop: Spark Blue 550
+
+- Previously coding experience: For the past 5 years, repeatedly
+
+- What I hope to get: A faster way to match FlowSOM clusters to their likely cell type
+
 <!--
 **EhsanDaryoosh/EhsanDaryoosh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
